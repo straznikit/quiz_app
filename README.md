@@ -19,3 +19,15 @@ Randomized Questions: The quiz includes a bank of randomized questions from dive
 4. Continue answering questions until you reach the end of the quiz.
 
 5. At the end of the quiz, the total score will be displayed, reflecting your knowledge and performance.
+## Dependencies:
+
+Python 3.12
+
+## Getting Started:
+
+1. Clone the repository to your local machine:
+
+```python
+git clone 
+```
+2. Run the script and dive into the world of general knowledge with this True/False quiz game.
