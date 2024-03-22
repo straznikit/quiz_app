@@ -28,6 +28,20 @@ Python 3.12
 1. Clone the repository to your local machine:
 
 ```python
-git clone 
+git clone https://github.com/straznikit/quiz_app
 ```
 2. Run the script and dive into the world of general knowledge with this True/False quiz game.
+
+## Contributing:
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
+
+## Acknowledgments:
+
+Special thanks to the Python community and contributors for their valuable insights and support in developing this True/False quiz game script.
+
+
+
+
+
+
